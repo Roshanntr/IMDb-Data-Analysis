@@ -10,6 +10,7 @@ The IMDb dataset contains information about movies and TV shows, including attri
 4) Formatting all sections of the dashboard and creating an overall theme.
 
 **Here are my insights :**
+
 a) Top Movie: The Shawshank Redemption is the highest-rated and most liked movie.
 
 b) Genre Preferences by Era:
