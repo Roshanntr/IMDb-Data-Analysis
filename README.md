@@ -11,8 +11,11 @@ The IMDb dataset contains information about movies and TV shows, including attri
 
 **Here are my insights :**
 a) Top Movie: The Shawshank Redemption is the highest-rated and most liked movie.
+
 b) Genre Preferences by Era:
 From 1920-1940: The most preferred genres were Adventure, Family, and Fantasy.
 From 2000-2020: The dominant genres are Action, Adventure, and Sci-fi.
+
 c) Overall Genre Preferences: Across all time periods, Drama, Adventure, Action, and Fantasy are the most favored genres.
+
 d) Top Director: Christopher Nolan ranks as the top director by votes.
